@@ -13,7 +13,7 @@ labels:
     size-below: 1000
   - label: "xlarge-diff"
     size-above: 999
-    - label: "fracs"
+  - label: "fracs"
     files:
       - ".fracs/.*"
   - label: "geometry"

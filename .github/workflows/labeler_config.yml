@@ -12,28 +12,4 @@ labels:
     size-above: 499
     size-below: 1000
   - label: "xlarge-diff"
-    size-above: 999
-  - label: "fracs"
-    files:
-      - ".fracs/.*"
-  - label: "geometry"
-    files:
-      - ".geometry/.*"
-  - label: "grids"
-    files:
-      - ".grids/.*"
-  - label: "models"
-    files:
-      - ".models/.*"
-  - label: "numerics"
-    files:
-      - ".numerics/.*"
-  - label: "params"
-    files:
-      - ".params/.*"
-  - label: "utils"
-    files:
-      - ".utils/.*"  
-  - label: "viz"
-    files:
-      - ".viz/.*"        
+    size-above: 999     
